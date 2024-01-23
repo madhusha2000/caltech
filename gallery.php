@@ -9,7 +9,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="assest/style.css">
 </head>
 <body>
 <div class="container">
@@ -30,6 +30,6 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     
     <script src="https://cdn.jsdelivr.net/gh/stevenschobert/instafeed.js@2.0.0rc1/src/instafeed.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="assest/script.js"></script>
 </body>
 </html>
